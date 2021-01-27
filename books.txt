@@ -1,0 +1,10 @@
+C How to Progam, 1106, file:///F:/E-Books/C%20C++/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf
+C++ How to Program, 1176, file:///F:/E-Books/C%20C++/Deitel%20C++%20How%20to%20Program%2010th%20ed%20Global%202017.pdf
+Learning Python, 1594, file:///F:/E-Books/Python/Learning%20Python%20by%20Mark%20Lutz.pdf
+Java How To Program, 3400, file:///F:/E-Books/Java/Java%20How%20to%20Program%2011th%20Edition.pdf
+C#, 871, file:///F:/E-Books/Visual%20C%23/[HEC]%20C%23%206%20for%20Programmers%206th%20Edition.pdf
+AI, 1160,file:///F:/BS-CS/6th%20Semester%20Spring%202020/OneDrive/6th%20Semester%20Spring%202020/5.%20Artificial%20Intelligence/AI%20Modern%20Approach.pdf
+Automata, 850, file:///F:/BS-CS/6th%20Semester%20Spring%202020/OneDrive/6th%20Semester%20Spring%202020/7.%20Theory%20of%20Automata/Introduction%20to%20Computer%20Theory%20by%20Daniel%20I.A%20Cohen%202nd%20Ed..pdf
+Android, 750,file:///F:/BS-CS/6th%20Semester%20Spring%202020/OneDrive/6th%20Semester%20Spring%202020/3.%20Mobile%20App%20Development/[HEC]%20Android%20Programming_%20The%20Big%20Nerd%20Ranch%20Guide.pdf
+Web, 700, file:///F:/E-Books/Web%20Development/Html%20CSS.pdf
+IS, 840, file:///F:/BS-CS/6th%20Semester%20Spring%202020/OneDrive/6th%20Semester%20Spring%202020/1.%20Information%20Security/Computer%20Security%20Principles%20and%20Practice%20v3.pdf
